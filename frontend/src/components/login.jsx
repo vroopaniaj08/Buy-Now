@@ -25,7 +25,7 @@ export default function Login() {
         }
     }
     return <>
-        <div className="d-flex justify-content-center align-items-center" style={{  backgroundColor:"SlateBlue",height: "100vh", backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
+        <div className="d-flex justify-content-center align-items-center gradient_background" style={{  backgroundColor:"SlateBlue",height: "100vh", backgroundRepeat: "no-repeat", backgroundSize: "cover" }}>
 
             <div className="container p-4 w-50" style={{ height: "fit-content", boxShadow: '1px 2px 4px 2px rgba(0, 0, 0, 0.3)', borderRadius: "10px", backgroundColor: `rgba(255,255,255,0.5)` }}>
                 <h3 className='text-center'>Login page</h3>
